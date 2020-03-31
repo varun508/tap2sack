@@ -1,6 +1,6 @@
 # Tap2Sack
 
-Tap2Sack makes it super easy to save your webpages on a tap. Install Tap2Sack browser extension and start saving.
+Tap2Sack makes it super easy to save your webpages. Install Tap2Sack browser extension and start saving.
 
 ## License
 
